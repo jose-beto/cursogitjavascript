@@ -17,6 +17,6 @@ https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer<br>
 ```
 git clone https://github.com/romulosilvestre/cursogitjavascript.git<br>
 ```
-<h3>6.Implementação futura</h3><br>
-<h3>7.Colaboradores</h3><br>
-<h3>8.Status</h3><br>
+<h3>6.Implementação futura</h3>
+<h3>7.Colaboradores</h3>
+<h3>8.Status</h3>
